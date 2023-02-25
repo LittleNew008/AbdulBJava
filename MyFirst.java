@@ -1,4 +1,4 @@
-package myfirst;
+package myfirstJava;
 
 public class MyFirst {
 
